@@ -17,6 +17,12 @@
 2. **Run the Script**: Execute the provided Python script to preprocess the data, train the model, and generate maintenance predictions.
 3. **Review Predictions**: Check the output Excel file to review the predicted maintenance needs for each data point.
 
+## Input data 
+![image](https://github.com/user-attachments/assets/6c74ff98-0bc1-44dd-84c7-e262df259250)
+
+## Output data 
+![image](https://github.com/user-attachments/assets/b97ed342-95a4-4940-87c4-2a971fa25bcf)
+
 ## Installation
 
 1. Clone the repository:
