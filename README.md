@@ -50,8 +50,11 @@
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nerdygeek2127&show_icons=true)
-![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdygeek2127)
+## GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nerdygeek2127&show_icons=true&theme=radical)
+![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdygeek2127&layout=compact&theme=radical)
+
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or suggestions.
 """
