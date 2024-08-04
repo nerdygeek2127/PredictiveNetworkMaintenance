@@ -46,11 +46,12 @@
    \`\`\`
 4. The script will generate an output Excel file with the maintenance predictions.
 
-## License
+## Github stats
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## GitHub Stats
 
-## Contributions
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nerdygeek2127&show_icons=true)
+![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdygeek2127)
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or suggestions.
 """
