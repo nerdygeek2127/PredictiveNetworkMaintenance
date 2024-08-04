@@ -48,13 +48,7 @@
 
 ## Github stats
 
-## GitHub Stats
-
-## GitHub Stats
-## GitHub Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/PredictiveNetworkMaintenance.svg "Repobeats analytics image")
-
+![Alt](https://repobeats.axiom.co/api/embed/1e904b08bff9f8cce1acb2c4da9ed45cf060986c.svg "Repobeats analytics image")
 
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or suggestions.
